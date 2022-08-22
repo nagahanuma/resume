@@ -1,0 +1,36 @@
+.outer{
+    width: 900px;
+    height: 1000px;
+    border:1px solid black;
+    margin:0px auto;
+}
+.outer h3{
+    text-align: center;
+}
+p{
+    font-size:18px; 
+
+}
+.top{
+    padding:10px;
+}
+
+.section1{
+ background-color:white;
+ width:50%;
+ float:left;
+ height:100vh;
+    box-sizing: border-box;
+    margin: 0px;;
+    padding: 10px;; 
+}
+.section2{
+ background-color:white;
+ width:50%;
+ float:left;
+ height:100vh;
+ margin:0;
+ padding:10px;
+  box-sizing: border-box;
+}
+hr { margin: 0.5em auto;}

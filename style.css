@@ -1,7 +1,7 @@
 .outer{
     width: 900px;
     height: 900px;
-    border:1px solid black;
+   /* border:1px solid black;*/
     margin:0px auto;
 }
 .outer h3{
@@ -12,8 +12,9 @@ p{
 
 }
 .top{
-    padding:10px;
     background-colour: white;
+    padding:10px;
+   
 }
 
 .section1{
